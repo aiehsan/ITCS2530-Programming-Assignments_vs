@@ -7,8 +7,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/aishaehsan/Documents/GitHub/ITCS2530-Programming-Assignments",
-      "program": "/Users/aishaehsan/Documents/GitHub/ITCS2530-Programming-Assignments/build/Debug/outDebug"
+      "cwd": "/Users/aishaehsan/Desktop/Macomb/ITCS2530-Programming-Assignments_vs",
+      "program": "/Users/aishaehsan/Desktop/Macomb/ITCS2530-Programming-Assignments_vs/build/Debug/outDebug"
     },
   ]
 }
